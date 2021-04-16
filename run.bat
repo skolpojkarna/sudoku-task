@@ -1,0 +1,1 @@
+"%JAVA_HOME%\bin\java" -jar sudoku.jar sudoku2.txt
